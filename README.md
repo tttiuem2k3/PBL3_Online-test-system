@@ -2,6 +2,7 @@
 
 > A Java web application for managing **online examinations, question banks, users and automatic test results** using Servlets/JSP, MySQL and Apache Tomcat.
 
+<p align="center">\n  <img src="./docs/images/readme_overview.svg" width="100%" alt="Online Test &amp; Question Management System overview">\n</p>\n
 ---
 
 ## 📌 Introduction
